@@ -2,8 +2,12 @@ Please use this repository to maintain your work for the team project.
 
 Also please fill the following details:
 
-- Team name:
+- Team name: QuickEdits
 - Students (SCS username - Name):
+	- Andrei Petrut Manaila
+	- Sebastian Grigor
+	- Daniel Manciu
+	- Danut Ilisei
 
 Project idea:
 
